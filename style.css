@@ -12,6 +12,9 @@ body {
     background: linear-gradient(rgb(137, 174, 255), rgb(26, 93, 194));
 }
 
+body{
+    overflow : hidden;
+}
 .container {
     position: relative;
     margin: auto;
